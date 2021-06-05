@@ -6,3 +6,5 @@ The website is developed using React.JS.
 You need to download the pc app on every PC and configure them (more details of how to configure the pc app on the [website](https://psee.netlify.app/)). Then, the pcs will send their diagnostic data to the admin's account in the website which visualizes them.
 
 Find a small demo in this [video](https://www.youtube.com/embed/lpWhiEjm-Do)
+
+Note: The server is currently down.
